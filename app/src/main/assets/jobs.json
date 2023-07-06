@@ -1,0 +1,98 @@
+[
+  {
+    "logo": "logo_google",
+    "position": "Software Engineer",
+    "company": "Google",
+    "description": "Google adalah perusahaan teknologi multinasional yang mengkhususkan diri pada layanan dan produk terkait internet. Perusahaan ini dikenal dengan mesin pencarinya, teknologi iklan online, dan komputasi awan."
+  },
+  {
+    "logo": "logo_facebook",
+    "position": "Product Manager",
+    "company": "Facebook",
+    "description": "Facebook adalah perusahaan jaringan sosial yang memungkinkan orang untuk terhubung, berbagi, dan berkomunikasi satu sama lain. Ini adalah salah satu platform media sosial terbesar di dunia."
+  },
+  {
+    "logo": "logo_apple",
+    "position": "UI/UX Designer",
+    "company": "Apple",
+    "description": "Apple adalah perusahaan teknologi yang merancang, memproduksi, dan menjual elektronik konsumen, perangkat lunak komputer, dan layanan online. Perusahaan ini dikenal dengan produk inovatif dan desain yang ramah pengguna."
+  },
+  {
+    "logo": "logo_microsoft",
+    "position": "Data Scientist",
+    "company": "Microsoft",
+    "description": "Microsoft adalah perusahaan teknologi multinasional yang mengembangkan, memproduksi, memberi lisensi, mendukung, dan menjual perangkat lunak komputer, elektronik konsumen, dan komputer pribadi. Ini adalah salah satu perusahaan teknologi terbesar di dunia."
+  },
+  {
+    "logo": "logo_amazon",
+    "position": "Business Analyst",
+    "company": "Amazon",
+    "description": "Amazon adalah perusahaan e-commerce dan komputasi awan yang menawarkan berbagai produk dan layanan. Ini adalah salah satu pasar online terbesar di dunia dan dikenal dengan pengiriman cepat dan pilihan produk yang luas."
+  },
+  {
+    "logo": "logo_tokopedia",
+    "position": "Full Stack Developer",
+    "company": "Tokopedia",
+    "description": "Tokopedia adalah perusahaan e-commerce yang menyediakan platform belanja online. Perusahaan ini memiliki berbagai kategori produk dan menjadi salah satu perusahaan teknologi terbesar di Indonesia."
+  },
+  {
+    "logo": "logo_grab",
+    "position": "Data Analyst",
+    "company": "Grab",
+    "description": "Grab adalah perusahaan teknologi yang menyediakan layanan transportasi online dan berbagai layanan lainnya. Perusahaan ini telah berkembang pesat di Asia Tenggara dan menjadi salah satu perusahaan rintisan terbesar di kawasan ini."
+  },
+  {
+    "logo": "logo_traveloka",
+    "position": "Product Designer",
+    "company": "Traveloka",
+    "description": "Traveloka adalah perusahaan teknologi yang menyediakan platform pemesanan tiket pesawat, hotel, dan layanan perjalanan lainnya. Perusahaan ini memiliki fokus di industri perjalanan dan menjadi salah satu perusahaan teknologi terkemuka di Indonesia."
+  },
+  {
+    "logo": "logo_bukalapak",
+    "position": "Mobile App Developer",
+    "company": "Bukalapak",
+    "description": "Bukalapak adalah perusahaan e-commerce yang menyediakan platform jual beli online. Perusahaan ini menyediakan berbagai produk dan menjadi salah satu perusahaan terkemuka di Indonesia."
+  },
+  {
+    "logo": "logo_shopee",
+    "position": "Digital Marketing Specialist",
+    "company": "Shopee",
+    "description": "Shopee adalah perusahaan e-commerce yang menyediakan platform belanja online. Perusahaan ini fokus di pasar Asia Tenggara dan telah berkembang dengan pesat di kawasan ini."
+  },
+  {
+    "logo": "logo_grab",
+    "position": "Front-end Developer",
+    "company": "Grab",
+    "description": "Grab adalah perusahaan teknologi yang menyediakan layanan transportasi online, pengiriman makanan, dan layanan keuangan. Perusahaan ini hadir di berbagai negara di Asia Tenggara dan menjadi salah satu pemimpin pasar di kawasan ini."
+  },
+  {
+    "logo": "logo_tiket",
+    "position": "UI/UX Designer",
+    "company": "Tiket.com",
+    "description": "Tiket.com adalah perusahaan teknologi yang menyediakan platform pemesanan tiket pesawat, hotel, dan layanan perjalanan lainnya. Perusahaan ini fokus di pasar Indonesia dan berkembang pesat dalam beberapa tahun terakhir."
+  },
+  {
+    "logo": "logo_blibli",
+    "position": "Backend Developer",
+    "company": "Blibli",
+    "description": "Blibli adalah perusahaan e-commerce yang menyediakan platform belanja online. Perusahaan ini memiliki berbagai kategori produk dan menjadi salah satu pemain utama dalam industri e-commerce di Indonesia."
+  },
+  {
+    "logo": "logo_lazada",
+    "position": "Data Engineer",
+    "company": "Lazada",
+    "description": "Lazada adalah perusahaan e-commerce yang menyediakan platform belanja online di Asia Tenggara. Perusahaan ini memiliki jangkauan regional yang luas dan menjadi salah satu pemimpin pasar di kawasan ini."
+  },
+  {
+    "logo": "logo_zomato",
+    "position": "Operations Manager",
+    "company": "Zomato",
+    "description": "Zomato adalah perusahaan teknologi yang menyediakan platform pemesanan makanan online. Perusahaan ini hadir di berbagai negara dan kota di seluruh dunia dan menjadi salah satu pemain utama di industri makanan online."
+  },
+  {
+    "logo": "logo_gojek",
+    "position": "Product Manager",
+    "company": "Gojek",
+    "description": "Gojek adalah perusahaan teknologi yang menyediakan berbagai layanan seperti transportasi, pengiriman makanan, pembayaran digital, dan lainnya. Perusahaan ini merupakan salah satu perusahaan teknologi terbesar di Indonesia."
+  }
+]

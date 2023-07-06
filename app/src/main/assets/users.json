@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "username": "absor@gmail.com",
+      "password": "absor123"
+    },
+    {
+      "username": "aep@gmail.com",
+      "password": "aep123"
+    },
+    {
+      "username": "rodu@gmail.com",
+      "password": "rodu123"
+    },
+    {
+      "username": "yohanes@gmail.com",
+      "password": "yohanes123"
+    },
+    {
+      "username": "dion@gmail.com",
+      "password": "dion123"
+    }
+  ]
+}
